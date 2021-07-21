@@ -1,0 +1,63 @@
+li{
+    display: inline;
+    font-size: 38px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    float: right;
+    text-align: left;
+}
+.menu{
+    display: inline;
+    width: 100%;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 60px;
+  }
+  p{
+    
+      text-align: center;
+      font-size: 30px;
+      color: white;
+      padding-top: 20px;
+      
+  }
+  h1{
+      text-align: center;
+      font-size: 38px;
+      color: white;
+      padding-bottom: 40px;
+  }
+  body{
+      background-color: black;
+  }
+  .words{
+      padding-top: 150px;
+      text-align: center;
+      display: block;
+     
+  }
+  .projects{
+      padding-top: 200px;
+  }
+  .card-text{
+      color: black;
+  }
+.col{
+    padding: 10px;
+}
+.skil{
+    float: right;
+    text-align: justify;
+}
+h2{
+    float: left;
+    color: white;
+    padding-top: 30px;
+    padding-left: 10px;
+}
